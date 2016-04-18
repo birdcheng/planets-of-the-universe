@@ -1,0 +1,11 @@
+-   title: Dwarf
+    folder: dwarf
+    content: 'A dwarf star is a star that is not a giant or supergiant'
+
+-   title: Gas Giant
+    folder: gas-giant
+    content: 'Gas Giant is a star that is not a giant or supergiant'
+
+-   title: Terrestrial
+    folder: terrestrial
+    content: 'Terrestrial is a star that is not a giant or supergiant'
